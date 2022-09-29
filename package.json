@@ -1,0 +1,18 @@
+{
+  "name": "final-try-version",
+  "main": "./lib/final-try-version",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "final-try-version:toggle"
+  },
+  "repository": "https://github.com/qwerty88T/final-try-version",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

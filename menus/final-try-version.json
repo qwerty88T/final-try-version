@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle final-try-version",
+        "command": "final-try-version:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "final-try-version",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "final-try-version:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
