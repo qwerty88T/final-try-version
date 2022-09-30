@@ -2,8 +2,8 @@
   "name": "final-try-version",
   "main": "./lib/final-try-version",
   "version": "3.0.0",
-  "description": "A short description of your package",
-  "keywords": [],
+  "description": "The real final try version",
+  "keywords": [Real Try version],
   "activationCommands": {
     "atom-workspace": "final-try-version:toggle"
   },
