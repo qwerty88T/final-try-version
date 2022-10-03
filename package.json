@@ -1,7 +1,7 @@
 {
   "name": "final-try-version",
   "main": "./lib/final-try-version",
-  "version": "7.1.0",
+  "version": "7.2.0",
   "description": "The real final try version",
   "keywords": [],
   "activationCommands": {
